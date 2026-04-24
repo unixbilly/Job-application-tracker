@@ -1,0 +1,1 @@
+from app.routes.applications import router as applications_router
